@@ -13,4 +13,4 @@ class Solution:
 n = Solution()
 nums = [3,2,3]
 result = n.majorityElement(nums)
-print(result)  # Output: 3
+print(result)  
